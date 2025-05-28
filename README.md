@@ -37,7 +37,6 @@ This project demonstrates model relationships, data seeding, and database intera
 
 ### 1. Clone the repository
 
-```bash
 git clone git@github.com:Kassim999999/phase-3-project-libray-vault-cli.git
 cd library-vault
 

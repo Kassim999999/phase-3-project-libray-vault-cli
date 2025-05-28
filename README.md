@@ -42,15 +42,15 @@ git clone git@github.com:Kassim999999/phase-3-project-libray-vault-cli.git
 cd library-vault
 
 
-2. Install dependencies
+### 2. Install dependencies
 pipenv install
 pipenv shell
 
-3. Seed the database
+### 3. Seed the database
 python lib/seed.py
 This will create the database (library.db) and insert some sample books, members, and borrowing records.
 
-4. View the data (optional)
+### 4. View the data (optional)
 python lib/debug.py
 
 ---
